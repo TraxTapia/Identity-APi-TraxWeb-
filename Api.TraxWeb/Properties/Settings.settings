@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Api.TraxWeb.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LogPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Log\Log.txt</Value>
+    </Setting>
+    <Setting Name="TemplateResetPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">TemplateMail\RestablecerContrasenia.txt</Value>
+    </Setting>
+    <Setting Name="SMTPEnableSSL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="TemplateCreateUser" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">TemplateMail\CredencialesNuevoUsuario.txt</Value>
+    </Setting>
+    <Setting Name="TemplateChangePassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">TemplateMail\CambioContrasenia.txt</Value>
+    </Setting>
+    <Setting Name="TemplateResetPasswordConfirm" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">TemplateMail\CredecialesRestablecerContrasenia.txt</Value>
+    </Setting>
+    <Setting Name="SMTPTimeOut" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">50000</Value>
+    </Setting>
+    <Setting Name="SMTPHost" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">smtp.Office365.com</Value>
+    </Setting>
+    <Setting Name="SMTPPort" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">587</Value>
+    </Setting>
+    <Setting Name="SMTPUserName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">sass@mediaccess.com.mx</Value>
+    </Setting>
+    <Setting Name="SMTPPassword" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">M3d1.2420</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

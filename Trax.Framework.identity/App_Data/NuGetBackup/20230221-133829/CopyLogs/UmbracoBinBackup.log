@@ -1,0 +1,65 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Herramienta para copia eficaz de archivos         
+-------------------------------------------------------------------------------
+
+  Inicio: martes, 21 de febrero de 202301:38:29 p. m.
+   Origen : C:\Users\ivan.tapia\source\repos\Api.TraxWeb\Trax.Framework.identity\bin\
+     Destino : C:\Users\ivan.tapia\source\repos\Api.TraxWeb\Trax.Framework.identity\App_Data\NuGetBackup\20230221-133829\bin\
+
+    Archivos: *.*
+	    
+  Opciones: *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   0	C:\Users\ivan.tapia\source\repos\Api.TraxWeb\Trax.Framework.identity\bin\
+	   Nuevo dir      29	C:\Users\ivan.tapia\source\repos\Api.TraxWeb\Trax.Framework.identity\bin\Debug\
+	    Nuevo arch		   4.7 m	EntityFramework.dll 10%   21%   31%   42%   52%   63%   73%   84%   94%  100%  
+	    Nuevo arch		  591752	EntityFramework.SqlServer.dll 44%   88%  100%  
+	    Nuevo arch		  163193	EntityFramework.SqlServer.xml 80%  100%  
+	    Nuevo arch		   3.5 m	EntityFramework.xml 14%   28%   42%   56%   70%   84%   98%  100%  
+	    Nuevo arch		  159312	Microsoft.AspNet.Identity.Core.dll 82%  100%  
+	    Nuevo arch		  124939	Microsoft.AspNet.Identity.Core.xml100%  
+	    Nuevo arch		   76376	Microsoft.AspNet.Identity.EntityFramework.dll100%  
+	    Nuevo arch		   52609	Microsoft.AspNet.Identity.EntityFramework.xml100%  
+	    Nuevo arch		   55896	Microsoft.AspNet.Identity.Owin.dll100%  
+	    Nuevo arch		   32939	Microsoft.AspNet.Identity.Owin.xml100%  
+	    Nuevo arch		   36520	Microsoft.Owin.Security.Cookies.dll100%  
+	    Nuevo arch		   33265	Microsoft.Owin.Security.Cookies.xml100%  
+	    Nuevo arch		   53416	Microsoft.Owin.Security.dll100%  
+	    Nuevo arch		   77488	Microsoft.Owin.Security.OAuth.dll100%  
+	    Nuevo arch		  111514	Microsoft.Owin.Security.OAuth.xml100%  
+	    Nuevo arch		   30791	Microsoft.Owin.Security.xml100%  
+	    Nuevo arch		  502272	Newtonsoft.Json.dll 26%   52%   78%  100%  
+	    Nuevo arch		  478726	Newtonsoft.Json.xml 27%   54%   82%  100%  
+	    Nuevo arch		    4608	Owin.dll100%  
+	    Nuevo arch		    6656	Trax.Framework.Generic.dll100%  
+	    Nuevo arch		   30208	Trax.Framework.Generic.pdb100%  
+	    Nuevo arch		   63488	Trax.Framework.identity.dll100%  
+	    Nuevo arch		    1030	Trax.Framework.identity.dll.config100%  
+	    Nuevo arch		   99840	Trax.Framework.identity.pdb100%  
+	    Nuevo arch		   18432	Trax.Models.Generic.dll100%  
+	    Nuevo arch		  101888	Trax.Models.Generic.pdb100%  
+	    Nuevo arch		   25600	Trax.Models.Identity.dll100%  
+	    Nuevo arch		     677	Trax.Models.Identity.dll.config100%  
+	    Nuevo arch		   99840	Trax.Models.Identity.pdb100%  
+	   Nuevo dir       3	C:\Users\ivan.tapia\source\repos\Api.TraxWeb\Trax.Framework.identity\bin\Debug\es\
+	    Nuevo arch		   15960	Microsoft.AspNet.Identity.Core.resources.dll100%  
+	    Nuevo arch		   15448	Microsoft.AspNet.Identity.EntityFramework.resources.dll100%  
+	    Nuevo arch		   12376	Microsoft.AspNet.Identity.Owin.resources.dll100%  
+	   Nuevo dir       0	C:\Users\ivan.tapia\source\repos\Api.TraxWeb\Trax.Framework.identity\bin\Release\
+
+------------------------------------------------------------------------------
+
+               Total   Copiado   OmitidoNo coincidencia     ERROR    Extras
+Director.:         4         3         1         0         0         0
+ Archivos:        32        32         0         0         0         0
+    Bytes:   11.25 m   11.25 m         0         0         0         0
+   Tiempo:   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+Velocidad:            43728518 Bytes/s
+Velocidad:            2502.165 Megabytes/min
+   Finalizado: martes, 21 de febrero de 2023 01:38:30 p. m.
+
