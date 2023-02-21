@@ -21,19 +21,19 @@
       <Value Profile="(Default)">TemplateMail\CredecialesRestablecerContrasenia.txt</Value>
     </Setting>
     <Setting Name="SMTPTimeOut" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">50000</Value>
+      <Value Profile="(Default)">10000</Value>
     </Setting>
     <Setting Name="SMTPHost" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">smtp.Office365.com</Value>
+      <Value Profile="(Default)">smtp.gmail.com</Value>
     </Setting>
     <Setting Name="SMTPPort" Type="System.String" Scope="Application">
       <Value Profile="(Default)">587</Value>
     </Setting>
     <Setting Name="SMTPUserName" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">sass@mediaccess.com.mx</Value>
+      <Value Profile="(Default)">tivan2707@gmail.com</Value>
     </Setting>
     <Setting Name="SMTPPassword" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">M3d1.2420</Value>
+      <Value Profile="(Default)">milove12</Value>
     </Setting>
   </Settings>
 </SettingsFile>

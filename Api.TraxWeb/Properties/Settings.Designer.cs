@@ -79,7 +79,7 @@ namespace Api.TraxWeb.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("50000")]
+        [global::System.Configuration.DefaultSettingValueAttribute("10000")]
         public string SMTPTimeOut {
             get {
                 return ((string)(this["SMTPTimeOut"]));
@@ -88,7 +88,7 @@ namespace Api.TraxWeb.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("smtp.Office365.com")]
+        [global::System.Configuration.DefaultSettingValueAttribute("smtp.gmail.com")]
         public string SMTPHost {
             get {
                 return ((string)(this["SMTPHost"]));
@@ -106,7 +106,7 @@ namespace Api.TraxWeb.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("sass@mediaccess.com.mx")]
+        [global::System.Configuration.DefaultSettingValueAttribute("tivan2707@gmail.com")]
         public string SMTPUserName {
             get {
                 return ((string)(this["SMTPUserName"]));
@@ -115,7 +115,7 @@ namespace Api.TraxWeb.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("M3d1.2420")]
+        [global::System.Configuration.DefaultSettingValueAttribute("milove12")]
         public string SMTPPassword {
             get {
                 return ((string)(this["SMTPPassword"]));

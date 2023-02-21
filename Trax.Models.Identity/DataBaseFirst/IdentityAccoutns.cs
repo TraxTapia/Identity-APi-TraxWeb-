@@ -10,7 +10,7 @@ namespace Trax.Models.Identity.DataBaseFirst
     public partial class IdentityAccoutns : DbContext
     {
         public IdentityAccoutns()
-              : base("name=IdentityConnection")
+              : base("name=IdentityAccoutns")
         {
         }
         public virtual DbSet<C__MigrationHistory> C__MigrationHistory { get; set; }
