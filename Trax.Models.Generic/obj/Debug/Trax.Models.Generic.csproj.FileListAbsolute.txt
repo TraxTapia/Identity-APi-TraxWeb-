@@ -4,3 +4,9 @@ C:\Users\ivan.tapia\source\repos\Api.TraxWeb\Trax.Models.Generic\obj\Debug\Trax.
 C:\Users\ivan.tapia\source\repos\Api.TraxWeb\Trax.Models.Generic\obj\Debug\Trax.Models.Generic.csproj.CoreCompileInputs.cache
 C:\Users\ivan.tapia\source\repos\Api.TraxWeb\Trax.Models.Generic\obj\Debug\Trax.Models.Generic.dll
 C:\Users\ivan.tapia\source\repos\Api.TraxWeb\Trax.Models.Generic\obj\Debug\Trax.Models.Generic.pdb
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Models.Generic\bin\Debug\Trax.Models.Generic.dll
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Models.Generic\bin\Debug\Trax.Models.Generic.pdb
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Models.Generic\obj\Debug\Trax.Models.Generic.csproj.AssemblyReference.cache
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Models.Generic\obj\Debug\Trax.Models.Generic.csproj.CoreCompileInputs.cache
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Models.Generic\obj\Debug\Trax.Models.Generic.dll
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Models.Generic\obj\Debug\Trax.Models.Generic.pdb

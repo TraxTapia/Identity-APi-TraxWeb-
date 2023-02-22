@@ -42,6 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Api\ClientesDTO.cs" />
+    <Compile Include="Api\Response\ClientesListResponseDTO.cs" />
     <Compile Include="Identity\AccountModels.cs" />
     <Compile Include="Identity\ContentAuthorizeDTO.cs" />
     <Compile Include="Identity\Enum\EnumActionRole.cs" />
@@ -70,6 +72,8 @@
     <Compile Include="OperationResult\OperationResult.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Api\Request\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

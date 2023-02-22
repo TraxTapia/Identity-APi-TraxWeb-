@@ -31,3 +31,36 @@ C:\Users\ivan.tapia\source\repos\Api.TraxWeb\Trax.Framework.Generic\bin\Debug\es
 C:\Users\ivan.tapia\source\repos\Api.TraxWeb\Trax.Framework.Generic\obj\Debug\Trax.Framework.Generic.csproj.CopyComplete
 C:\Users\ivan.tapia\source\repos\Api.TraxWeb\Trax.Framework.Generic\obj\Debug\Trax.Framework.Generic.dll
 C:\Users\ivan.tapia\source\repos\Api.TraxWeb\Trax.Framework.Generic\obj\Debug\Trax.Framework.Generic.pdb
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Framework.Generic\bin\Debug\Trax.Framework.Generic.dll
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Framework.Generic\bin\Debug\Trax.Framework.Generic.pdb
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Framework.Generic\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Framework.Generic\bin\Debug\Trax.Models.Generic.dll
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Framework.Generic\bin\Debug\Trax.Models.Identity.dll
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Framework.Generic\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Framework.Generic\bin\Debug\Microsoft.Owin.dll
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Framework.Generic\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Framework.Generic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Framework.Generic\bin\Debug\EntityFramework.dll
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Framework.Generic\bin\Debug\Owin.dll
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Framework.Generic\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Framework.Generic\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Framework.Generic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Framework.Generic\bin\Debug\Trax.Models.Generic.pdb
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Framework.Generic\bin\Debug\Trax.Models.Identity.pdb
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Framework.Generic\bin\Debug\Trax.Models.Identity.dll.config
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Framework.Generic\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Framework.Generic\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Framework.Generic\bin\Debug\Microsoft.Owin.xml
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Framework.Generic\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Framework.Generic\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Framework.Generic\bin\Debug\EntityFramework.xml
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Framework.Generic\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Framework.Generic\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Framework.Generic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Framework.Generic\bin\Debug\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Framework.Generic\bin\Debug\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Framework.Generic\obj\Debug\Trax.Framework.Generic.csproj.AssemblyReference.cache
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Framework.Generic\obj\Debug\Trax.Framework.Generic.csproj.CoreCompileInputs.cache
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Framework.Generic\obj\Debug\Trax.Framework.Generic.csproj.CopyComplete
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Framework.Generic\obj\Debug\Trax.Framework.Generic.dll
+C:\Users\ivan.tapia\source\Ivan Tapia\Api.TraxWeb\Trax.Framework.Generic\obj\Debug\Trax.Framework.Generic.pdb
