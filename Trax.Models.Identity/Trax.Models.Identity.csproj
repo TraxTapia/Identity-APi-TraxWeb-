@@ -118,6 +118,7 @@
     <Compile Include="Base\Aplications.cs" />
     <Compile Include="Base\RoleContentAuthorization.cs" />
     <Compile Include="Class1.cs" />
+    <Compile Include="CoreAccount.cs" />
     <Compile Include="DataBaseFirst\Aplications.cs" />
     <Compile Include="DataBaseFirst\AspNetRoles.cs" />
     <Compile Include="DataBaseFirst\AspNetUserClaims.cs" />
