@@ -63,7 +63,16 @@ namespace Api.TraxWeb.Controllers
                 IdentityRepository _RepositoryIdentity = new IdentityRepository();
                 string _Password = _RepositoryIdentity.GeneratePassword(8);
                 string _UserName = Register.Name.Trim() + " " + Register.FirstSurname.Trim() + " " + Register.SecondSurname.Trim();
-                var _Result = await this.UserManager.CreateAsync(new ApplicationUser { FullUserName = _UserName, UserName = Register.Email.Trim(), Email = Register.Email.Trim(), EmailConfirmed = false, CodeProvider = Register.CodeProvider }, _Password);
+                var _Result = await this.UserManager.CreateAsync(new ApplicationUser
+                {
+                    FullUserName = _UserName,
+                    UserName = Register.Email.Trim(),
+                    Email = Register.Email.Trim(),
+                    EmailConfirmed = false,
+                    CodeProvider = Register.CodeProvider,
+                    NormalizedEmail = Register.Email.Trim(),
+                    NormalizedUserName = Register.Email.Trim()
+                }, _Password);
                 if (!_Result.Succeeded)
                 {
                     this._Logger.LogText("AccountController : RegisterUser : " + string.Join(", ", _Result.Errors));

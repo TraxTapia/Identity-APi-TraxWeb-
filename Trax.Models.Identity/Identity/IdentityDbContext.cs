@@ -20,6 +20,9 @@ namespace Trax.Models.Identity.Identity
 
         [StringLength(5)]
         public string CodeProvider { get; set; }
+        public string NormalizedEmail { get; set; }
+
+        public string NormalizedUserName { get; set; }
 
         public async Task<ClaimsIdentity> GenerateUserIdentityAsync(UserManager<ApplicationUser, string> manager)
         {
