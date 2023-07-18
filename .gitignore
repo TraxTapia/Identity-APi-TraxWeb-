@@ -336,3 +336,5 @@ ASALocalRun/
 
 # Ignorar directorios Debug en todos los proyectos
 **/Debug/
+# Ignorar archivos .suo en todos los proyectos
+**/*.suo
