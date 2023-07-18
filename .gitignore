@@ -330,3 +330,9 @@ ASALocalRun/
 *.dll
 *.suo
 *.Log.txt
+# Ignorar directorios binarios y de objetos en todos los proyectos
+**/bin/
+**/obj/
+
+# Ignorar directorios Debug en todos los proyectos
+**/Debug/
