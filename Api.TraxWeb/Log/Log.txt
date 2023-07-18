@@ -164,3 +164,5 @@
    en System.Runtime.CompilerServices.TaskAwaiter`1.GetResult()
    en Api.TraxWeb.Controllers.SettingUserController.<RegisterUserAsync>d__6.MoveNext() en C:\Users\ivan.tapia\source\repos\Api.TraxWeb\Api.TraxWeb\Controllers\SettingUserController.cs:línea 62
 20/10/2022 02:00:18.018 p. m. | AccountController : RegisterUser : El nombre PRUEBA123456@gmail.com ya existe., El correo electrónico 'PRUEBA123456@gmail.com' ya existe.
+18/07/2023 11:25:04.254 a. m. | Referencia a objeto no establecida como instancia de un objeto.
+   en Api.TraxWeb.Controllers.SettingUserController.<RegisterUserAsync>d__6.MoveNext() en C:\Users\ivan.tapia\source\Ivan Tapia\Repo\Api.TraxWeb\Api.TraxWeb\Controllers\SettingUserController.cs:línea 57

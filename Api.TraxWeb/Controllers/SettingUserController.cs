@@ -23,6 +23,7 @@ using Trax.Framework.Generic.Email;
 namespace Api.TraxWeb.Controllers
 {
     [RoutePrefix("Api/SettingUser")]
+    [Authorize]
     public class SettingUserController : ApiController
     {
         private ApplicationUserManager _userManager;
@@ -47,7 +48,7 @@ namespace Api.TraxWeb.Controllers
         }
         [HttpPost]
         [Route("RegisterUser")]
-        [UserInRole(Application = "TRAX.IDENTITY")]
+       [UserInRole(Application = "TRAX.IDENTITY")]
         public async Task<OperationResult> RegisterUserAsync(RegisterUserRequestDTO Register)
         {
             OperationResult _OperationResult = new OperationResult();
