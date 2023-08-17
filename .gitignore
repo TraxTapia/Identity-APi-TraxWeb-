@@ -324,17 +324,27 @@ ASALocalRun/
 
 # NVidia Nsight GPU debugger configuration file
 *.nvuser
-# Ignorar archivos binarios
-*.bin
-*.exe
-*.dll
+/build/
 *.suo
-*.Log.txt
-# Ignorar directorios binarios y de objetos en todos los proyectos
-**/bin/
-**/obj/
-
-# Ignorar directorios Debug en todos los proyectos
-**/Debug/
-# Ignorar archivos .suo en todos los proyectos
-**/*.suo
+*.user
+_ReSharper.*/
+*.sdf
+bin/
+obj/
+Debug/
+Release/
+*.opensdf
+*.tlog
+*.log
+TestResult.xml
+*.VisualState.xml
+Version.cs
+Version.h
+Version.cpp
+*/**/bin/Debug
+*/**/bin/Release
+*/**/obj/Debug
+*/**/obj/Release
+/Trax.Models.ApiServicesWeb/obj/Debug/Trax.Models.ApiServicesWeb.csproj.FileListAbsolute.txt
+/Trax.ApiServices.Web/obj/Debug/Trax.ApiServices.Web.csproj.FileListAbsolute.txt
+/Trax.Framework.ApiServicesWeb/obj/Debug/Trax.Framework.ApiServicesWeb.csproj.FileListAbsolute.txt

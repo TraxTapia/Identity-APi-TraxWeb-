@@ -45,8 +45,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Api\CategoriaDTO.cs" />
     <Compile Include="Api\ClientesDTO.cs" />
+    <Compile Include="Api\ProductoDTO.cs" />
+    <Compile Include="Api\Request\TiendaWeb\SaveProductRequestDTO.cs" />
     <Compile Include="Api\Response\ClientesListResponseDTO.cs" />
+    <Compile Include="Api\Response\TiendaWeb\ListCategoriasResponseDTO.cs" />
+    <Compile Include="Api\Response\TiendaWeb\ListProductosResponseDTO.cs" />
     <Compile Include="Identity\AccountModels.cs" />
     <Compile Include="Identity\ContentAuthorizeDTO.cs" />
     <Compile Include="Identity\Enum\EnumActionRole.cs" />
@@ -77,7 +82,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Api\Request\" />
     <Folder Include="NewFolder1\" />
   </ItemGroup>
   <ItemGroup>
