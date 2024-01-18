@@ -13,5 +13,6 @@ namespace Trax.Models.Generic.Api
         public int Id { get; set; }
         public string Categoria { get; set; }
         public bool Activo { get; set; }
+
     }
 }
